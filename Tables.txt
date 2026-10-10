@@ -1,0 +1,6 @@
+The complete Oracle database setup is in:
+
+database/setup.sql
+
+It creates the HOTELBOOKING user, all required tables, the booking sequence,
+the demo administrator, and sample hotel records.

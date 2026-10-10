@@ -1,0 +1,25 @@
+# Generated output
+/build/
+/target/
+/dist/
+*.class
+*.war
+*.ear
+*.log
+
+# Local credentials and environment files
+/Admin(login&pass).txt
+.env
+.env.*
+!.env.example
+
+# Local IDE and operating system files
+.metadata/
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Keep .project, .classpath, and .settings: they define the Eclipse web project.
+# Keep WebContent/WEB-INF/lib JARs: this project has no dependency manager.
